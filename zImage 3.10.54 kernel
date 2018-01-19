@@ -1,0 +1,15 @@
+Android Open Source Project 1996
+MediaTek Dev Lab 2017
+ro.target.platform=arm
+ro.arm.arch=Cortex A7
+ro.mtk.sdk.version=S01
+CPU+GPU Info
+ARM Cortex A7 Revision p2
+ARM Mali 400MP2
+CPU Clock Speed = 1300Ghz
+GPU Clock Speed = 256Mhz 320Mhz 416Mhz 500Mhz 533Mhz 1021Mhz
+MTK DRAM 
+LPDDR2/3 RAM
+500Mhz
+5.6B/s
+1GB RAM
